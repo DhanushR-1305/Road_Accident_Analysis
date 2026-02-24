@@ -31,7 +31,7 @@ Developed an interactive Road Accident Analytics dashboard  to analyze accident 
 # Tools & Techniques
 • Data Visualization: Power BI
 
-• Data Cleaning & Preparation: Power Query (M Code)
+• Data Cleaning & Preparation: Power Query 
 
 • Data Modeling: Star Schema (Fact & Dimension Tables)
 
