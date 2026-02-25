@@ -6,8 +6,6 @@ Developed an interactive Road Accident Analytics dashboard  to analyze accident 
 
 • analyze patterns by time, weather, and road conditions
 
-• determine main causes such as speeding, alcohol, or poor infrastructure
-
 • evaluate severity trends and casualty rates
 
 • support data-driven traffic safety policies and enforcement
