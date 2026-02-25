@@ -2,6 +2,24 @@
 Developed an interactive Road Accident Analytics dashboard  to analyze accident trends, severity levels, and contributing factors. Implemented KPIs, dynamic visual reports, and data modeling to monitor high-risk locations, peak accident periods, and vehicle involvement, enabling data-driven insights for improving road safety and supporting strategic decision-making.
 
 # Objectives
+• identify high-risk locations and accident hotspots
+
+• analyze patterns by time, weather, and road conditions
+
+• determine main causes such as speeding, alcohol, or poor infrastructure
+
+• evaluate severity trends and casualty rates
+
+• support data-driven traffic safety policies and enforcement
+
+• improve road design and traffic management strategies
+
+• enhance emergency response planning and resource allocation
+
+• reduce future accidents through predictive insights
+
+# Key insights
+
 • Total: 144.4K accidents, 195.7K casualties.
 
 • Severity: Mostly slight (165.8K); fatalities low (2.9K).
